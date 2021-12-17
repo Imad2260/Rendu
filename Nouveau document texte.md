@@ -30,7 +30,7 @@ LIMIT 10
 
 Les 10 premiers résultats :
 
-![image info](./résultats_requete1.png)
+![image info](./résultats_requete1.PNG)
 
 ## Requête 2 :
 La deuxième requête affiche les dix catégories qui ont données le plus de prix noble. 
@@ -57,4 +57,4 @@ LIMIT 10
 
 Les 10 premiers résultats :
 
-![image info](./résultats_requete2.png)
+![image info](./résultats_requete2.PNG)
